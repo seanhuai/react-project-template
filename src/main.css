@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif, WenQuanYi Micro Hei, '华文细黑', 'Microsoft YaHei', '微软雅黑';
+  font-size: 14px;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+h1, h2, h3, h4 {
+  margin: .5rem;
+}
+
+p {
+  margin: .3rem .5rem;
+}
